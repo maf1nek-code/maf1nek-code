@@ -14,7 +14,10 @@
 
 <br>
 
-<img alt="maf1nek mascot, a pixel-art muffin" src="assets/px/mascot.svg" align="right" width="150">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="assets/logo-light.svg">
+  <img alt="maf1nek logo" src="assets/logo-dark.svg" align="right" width="190">
+</picture>
 
 I make games in Unreal Engine 5 and build hardware with ESP32 and Arduino.
 
@@ -27,8 +30,8 @@ I make games in Unreal Engine 5 and build hardware with ESP32 and Arduino.
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=blender,cpp,py,js,html,css,threejs,arduino,git,github,vscode,windows&theme=light&perline=12">
-    <img alt="Blender, C++, Python, JavaScript, HTML, CSS, three.js, Arduino, Git, GitHub, VS Code, Windows" src="https://skillicons.dev/icons?i=blender,cpp,py,js,html,css,threejs,arduino,git,github,vscode,windows&theme=dark&perline=12" width="480">
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=cpp,py,js,html,css,threejs,arduino,blender,git,github,vscode,windows&theme=light&perline=6">
+    <img alt="C++, Python, JavaScript, HTML, CSS, three.js, Arduino, Blender, Git, GitHub, VS Code, Windows" src="https://skillicons.dev/icons?i=cpp,py,js,html,css,threejs,arduino,blender,git,github,vscode,windows&theme=dark&perline=6" width="260">
   </picture>
 </p>
 
