@@ -1,105 +1,121 @@
+<p>
+  <img alt="maf1nek banner" src="assets/banner.svg" width="100%">
+</p>
+
+<div align="center">
+  <p><b>Hi, I'm maf1nek</b> <img alt="" src="assets/px/muffin.svg" width="24" align="absmiddle"></p>
+  <img alt="Games in Unreal Engine 5, ESP32 and Arduino hardware, Fusion 360 designs" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=900&color=F2C14E&center=true&vCenter=true&width=560&height=34&lines=Games+in+Unreal+Engine+5;ESP32+and+Arduino+hardware;Fusion+360+designs+and+laser+engraving">
+  <br><br>
+  <img alt="Games: Unreal Engine 5" src="https://img.shields.io/badge/games-Unreal%20Engine%205-C9962C?style=flat-square">
+  <img alt="Hardware: ESP32 and Arduino" src="https://img.shields.io/badge/hardware-ESP32%20%2F%20Arduino-3A2F17?style=flat-square">
+  <img alt="Based in Poland" src="https://img.shields.io/badge/based%20in-Poland-3A2F17?style=flat-square">
+  <img alt="Polish and English" src="https://img.shields.io/badge/languages-PL%20%2F%20EN-3A2F17?style=flat-square">
+</div>
+
+<br>
+
+<img alt="maf1nek mascot, a pixel-art muffin" src="assets/px/mascot.svg" align="right" width="150">
+
+I make games in Unreal Engine 5 and build hardware with ESP32 and Arduino.
+
+<img alt="" src="assets/px/ghost.svg" width="20" align="absmiddle"> **2 games in UE5**: one released on itch.io, one in development<br>
+<img alt="" src="assets/px/chip.svg" width="20" align="absmiddle"> **ESP32 and Arduino builds**, from wiring and soldering to firmware<br>
+<img alt="" src="assets/px/cube.svg" width="20" align="absmiddle"> **Fusion 360** models and laser-engraved parts<br>
+<img alt="" src="assets/px/book.svg" width="20" align="absmiddle"> Learning **C++** and computer science along the way
+
+<br clear="right">
+
 <p align="center">
-  <img src="assets/banner.svg" width="100%" alt="maf1nek: Unreal Engine developer, maker and hardware tinkerer" />
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=unreal,blender,cpp,py,js,html,css,threejs,arduino,git,github,vscode,windows&theme=light&perline=13">
+    <img alt="Unreal Engine, Blender, C++, Python, JavaScript, HTML, CSS, three.js, Arduino, Git, GitHub, VS Code, Windows" src="https://skillicons.dev/icons?i=unreal,blender,cpp,py,js,html,css,threejs,arduino,git,github,vscode,windows&theme=dark&perline=13" width="520">
+  </picture>
 </p>
 
 <p align="center">
-  <a href="https://monlly.itch.io/sinister-trials"><img src="https://img.shields.io/badge/itch.io-Sinister%20Trials-F2C14E?style=for-the-badge&logo=itchdotio&logoColor=0D0E11&labelColor=14161B" alt="Sinister Trials on itch.io" /></a>
-  <img src="https://img.shields.io/badge/Discord-monlly.-47D7C8?style=for-the-badge&logo=discord&logoColor=0D0E11&labelColor=14161B" alt="Discord: monlly." />
+  <code>Blueprints</code> <code>Post-process</code> <code>Packaged builds</code> <code>Git LFS</code> <code>ESP32-WROOM-32</code> <code>Arduino IDE</code> <code>USB serial</code> <code>Fusion 360</code> <code>Laser engraving</code> <code>GSAP</code> <code>IndexedDB</code> <code>Apple Home</code>
 </p>
 
-<br />
+<img alt="" src="assets/px/ghost.svg" width="24" align="absmiddle"> **Games**
 
-<img src="assets/h-about.svg" width="100%" alt="01 About me" />
+<img alt="" src="assets/px/ghost.svg" width="20" align="absmiddle"> **Sinister Trials** · `UE5` `Blueprints`<br>
+A game I made in Unreal Engine 5 and published on itch.io. [Play it on itch.io](https://monlly.itch.io/sinister-trials)
 
-I'm **maf1nek**, an **Unreal Engine 5 developer** who also likes building things you can hold in your hand.
-On the game side I work on gameplay systems in **Blueprints**, lighting and mood, performance and debugging.
-On the hardware side I build **Arduino / ESP32** projects: I design them in **Fusion 360**, solder them, write the firmware and connect them to a PC or the web.
+<img alt="" src="assets/px/door.svg" width="20" align="absmiddle"> **From The Backrooms** · `UE5` `Post-process` `Git LFS`<br>
+A liminal-space horror game, in development. I work on the levels, the lighting and post-process look, and the packaged Windows builds. The project's 1.8 GB of assets are versioned with Git LFS.
 
-- 🎮 &nbsp;Building **From The Backrooms**, a liminal-space horror game in UE5
-- 🔧 &nbsp;Prototyping **Nalewator**, a personalised automatic drink dispenser
-- 🏎️ &nbsp;Racing with **Kierownica GT**, a sim wheel I built myself
-- 📚 &nbsp;Learning **C++** and computer science, one real project at a time
-
-<br />
-
-<img src="assets/h-projects.svg" width="100%" alt="02 Projects" />
+<img alt="" src="assets/px/lamp.svg" width="24" align="absmiddle"> **UE environments**
 
 <table>
   <tr>
-    <td width="50%">
-      <a href="https://monlly.itch.io/sinister-trials"><img src="assets/card-sinister.svg" width="100%" alt="Sinister Trials: a horror game made in Unreal Engine 5, released on itch.io" /></a>
-    </td>
-    <td width="50%">
-      <img src="assets/card-backrooms.svg" width="100%" alt="From The Backrooms: liminal-space horror game in UE5, in development" />
+    <td width="50%" valign="top"><img alt="Brick tunnel with pipes and warm lights, made in Unreal Engine" src="https://github.com/user-attachments/assets/c693e1a5-9e61-44e8-83b1-052d119cfdce" width="100%"><br><b>Tunnel</b> <sub>brick, pipes and warm practical lights</sub></td>
+    <td width="50%" valign="top"><img alt="Yellow Backrooms-style rooms under fluorescent lights, made in Unreal Engine" src="https://github.com/user-attachments/assets/a6acf9d5-479a-451c-be34-807d7507cfbf" width="100%"><br><b>Yellow rooms</b> <sub>Backrooms-style level under fluorescent lights</sub></td>
+  </tr>
+</table>
+
+<img alt="" src="assets/px/chip.svg" width="24" align="absmiddle"> **Hardware in action**
+
+<table>
+  <tr>
+    <td width="96" align="center"><img alt="" src="assets/px/wheel.svg" width="64"></td>
+    <td>
+      <b>Kierownica GT</b><br>
+      <sub>ESP32-WROOM-32 · Arduino · Python</sub>
+      <ul>
+        <li>A sim-racing wheel with 12 buttons, read with internal pull-ups and debounced in firmware</li>
+        <li>Every press and release goes over USB serial, plus a full state snapshot every second</li>
+        <li>Answers <code>PING</code>, <code>STATE?</code> and <code>INFO</code>, so the PC app finds the wheel by itself</li>
+        <li>A Python bridge turns it into a gamepad on Windows, started from a single <code>.bat</code> file</li>
+      </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <img src="assets/card-nalewator.svg" width="100%" alt="Nalewator: automatic drink dispenser based on GyverDrink, redesigned in Fusion 360, with laser-engraved personalisation" />
-    </td>
-    <td width="50%">
-      <img src="assets/card-wheel.svg" width="100%" alt="Kierownica GT: DIY sim-racing wheel on ESP32 with a Python virtual gamepad bridge" />
+    <td width="96" align="center"><img alt="" src="assets/px/glass.svg" width="64"></td>
+    <td>
+      <b>Nalewator</b><br>
+      <sub>Arduino · Fusion 360 · laser engraving</sub>
+      <ul>
+        <li>An automatic drink dispenser based on the open-source <a href="https://github.com/AlexGyver/GyverDrink">GyverDrink</a> project</li>
+        <li>New body modelled in Fusion 360 around the pump, the glass and the USB-C socket</li>
+        <li>A 37-wire soldering diagram, cross-checked against the firmware</li>
+        <li>Personalised laser engraving on the top plate</li>
+      </ul>
     </td>
   </tr>
   <tr>
-    <td colspan="2" align="center">
-      <a href="https://github.com/monlly-code/Smart-Blinds-for-Smart-Home-"><img src="assets/card-blinds.svg" width="50%" alt="Smart Blinds: ESP32 firmware that exposes blinds as a smart-home device for Apple Home and Siri" /></a>
+    <td width="96" align="center"><a href="https://github.com/maf1nek-code/Smart-Blinds-for-Smart-Home-"><img alt="" src="assets/px/blinds.svg" width="64"></a></td>
+    <td>
+      <a href="https://github.com/maf1nek-code/Smart-Blinds-for-Smart-Home-"><b>Smart Blinds</b></a><br>
+      <sub>ESP32 · Arduino IDE · Apple Home</sub>
+      <ul>
+        <li>The ESP32 shows up in Apple Home as a blinds accessory</li>
+        <li>Blinds open and close from the Home app, Siri or automations</li>
+        <li>Tested on iOS</li>
+      </ul>
+      <a href="https://github.com/maf1nek-code/Smart-Blinds-for-Smart-Home-">View the code</a>
     </td>
   </tr>
 </table>
 
-#### 🎨 UE environments
-<sub>Scenes I put together, with a focus on lighting, mood and performance.</sub>
+<img alt="" src="assets/px/cube.svg" width="24" align="absmiddle"> **Web**
 
-<table>
-  <tr valign="middle">
-    <td width="50%"><img src="https://github.com/user-attachments/assets/c693e1a5-9e61-44e8-83b1-052d119cfdce" width="100%" alt="Unreal Engine environment: lit brick tunnel with pipes" /></td>
-    <td width="50%"><img src="https://github.com/user-attachments/assets/a6acf9d5-479a-451c-be34-807d7507cfbf" width="100%" alt="Unreal Engine environment: Backrooms-style yellow liminal rooms" /></td>
-  </tr>
-</table>
+<img alt="" src="assets/px/glass.svg" width="20" align="absmiddle"> **Nalewator website** · `three.js` `GSAP` `IndexedDB`<br>
+The product site for Nalewator, built with AI assistance. It shows an interactive 3D model of the dispenser and has an engraving editor: you upload an image or type text, then move, scale and rotate it on the real shape of the top plate. Holes, the display and the buttons are marked as no-engrave zones, and the editor exports a 1:1 mm SVG and a 254 DPI PNG for the laser.
 
-<sub>Private projects are shown without source code. Nalewator builds on the open-source <a href="https://github.com/AlexGyver/GyverDrink">GyverDrink</a> project; the hardware redesign and engraving workflow are mine.</sub>
+<img alt="" src="assets/px/hourglass.svg" width="20" align="absmiddle"> <sub>Screenshots coming soon.</sub>
 
-<br /><br />
+<img alt="" src="assets/px/book.svg" width="24" align="absmiddle"> **Learning**
 
-<img src="assets/h-stack.svg" width="100%" alt="03 Tools and tech" />
+| Project | What it does |
+|---|---|
+| <img alt="" src="assets/px/book.svg" width="20" align="absmiddle"> **infozadania** | C++ exercises from school with explanations: Fahrenheit to Celsius, copying an array in reverse with `new` and `delete[]`, `if` / `else if` / `else` chains |
+
+<img alt="" src="assets/px/chat.svg" width="24" align="absmiddle"> **Work with me**
+
+I'm looking for projects where I can get real experience, contribute to existing work and help fix and improve systems, in games or hardware. Most of my projects are private, so ask if you'd like to see more.
+
+Discord: `monlly.`
 
 <p>
-  <b>Game dev</b><br />
-  <img src="https://skillicons.dev/icons?i=unreal,blender&theme=dark" alt="Unreal Engine, Blender" />
+  <img alt="I may not know everything yet, but I know how to figure things out." src="assets/footer.svg" width="100%">
 </p>
-<p>
-  <b>Code</b><br />
-  <img src="https://skillicons.dev/icons?i=cpp,py,js,html,css,threejs&theme=dark" alt="C++, Python, JavaScript, HTML, CSS, Three.js" />
-</p>
-<p>
-  <b>Hardware &amp; CAD</b><br />
-  <img src="https://skillicons.dev/icons?i=arduino&theme=dark" alt="Arduino" />
-  <img src="https://img.shields.io/badge/ESP32-14161B?style=for-the-badge&logo=espressif&logoColor=E7352C" height="48" alt="ESP32" />
-  <img src="https://img.shields.io/badge/Fusion%20360-14161B?style=for-the-badge&logo=autodesk&logoColor=F2C14E" height="48" alt="Fusion 360" />
-</p>
-<p>
-  <b>Workflow</b><br />
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,windows&theme=dark" alt="Git, GitHub, VS Code, Windows" />
-</p>
-
-<br />
-
-<img src="assets/h-approach.svg" width="100%" alt="04 How I work" />
-
-- **Learning by doing.** I pick a real project and learn whatever it needs, whether that's firmware, CAD or 3D on the web.
-- **Fixing before adding.** Making a system stable and fast matters more to me than piling on features.
-- **Clean structure and performance**, even in small systems.
-- **Honest results.** No fake features, no fake numbers. If something is a prototype, I call it a prototype.
-
-<br />
-
-<img src="assets/h-contact.svg" width="100%" alt="05 Let's build something" />
-
-I'm looking for projects where I can **gain real experience**, **contribute to existing work** and **help fix and improve systems**, in games or in hardware.
-
-**Discord:** `monlly.` &nbsp;·&nbsp; **itch.io:** [monlly.itch.io](https://monlly.itch.io/sinister-trials)
-
-<br />
-
-<img src="assets/footer.svg" width="100%" alt="I may not know everything yet, but I know how to figure things out." />
