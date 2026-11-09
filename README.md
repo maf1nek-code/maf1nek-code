@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" width="100%" alt="Monlly: Unreal Engine developer, maker and hardware tinkerer" />
+  <img src="assets/banner.svg" width="100%" alt="maf1nek: Unreal Engine developer, maker and hardware tinkerer" />
 </p>
 
 <p align="center">
@@ -11,7 +11,7 @@
 
 <img src="assets/h-about.svg" width="100%" alt="01 About me" />
 
-I'm **Monlly**, an **Unreal Engine 5 developer** who also likes building things you can hold in your hand.
+I'm **maf1nek**, an **Unreal Engine 5 developer** who also likes building things you can hold in your hand.
 On the game side I work on gameplay systems in **Blueprints**, lighting and mood, performance and debugging.
 On the hardware side I build **Arduino / ESP32** projects: I design them in **Fusion 360**, solder them, write the firmware and connect them to a PC or the web.
 
