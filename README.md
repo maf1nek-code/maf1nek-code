@@ -14,10 +14,7 @@
 
 <br>
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="assets/logo-light.svg">
-  <img alt="maf1nek logo" src="assets/logo-dark.svg" align="right" width="190">
-</picture>
+<img alt="maf1nek mascot, a pixel-art muffin" src="assets/px/mascot.svg" align="right" width="150">
 
 I make games in Unreal Engine 5 and build hardware with ESP32 and Arduino.
 
@@ -29,14 +26,19 @@ I make games in Unreal Engine 5 and build hardware with ESP32 and Arduino.
 <br clear="right">
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=cpp,py,js,html,css,threejs,arduino,blender,git,github,vscode,windows&theme=light&perline=6">
-    <img alt="C++, Python, JavaScript, HTML, CSS, three.js, Arduino, Blender, Git, GitHub, VS Code, Windows" src="https://skillicons.dev/icons?i=cpp,py,js,html,css,threejs,arduino,blender,git,github,vscode,windows&theme=dark&perline=6" width="260">
-  </picture>
+  <img alt="Unreal Engine" title="Unreal Engine" src="assets/apps/unreal.svg" width="44">
+  <img alt="Blender" title="Blender" src="assets/apps/blender.svg" width="44">
+  <img alt="Fusion 360" title="Fusion 360" src="assets/apps/fusion.svg" width="44">
+  <img alt="Arduino IDE" title="Arduino IDE" src="assets/apps/arduino.svg" width="44">
+  <br>
+  <img alt="VS Code" title="VS Code" src="assets/apps/vscode.svg" width="44">
+  <img alt="Git" title="Git" src="assets/apps/git.svg" width="44">
+  <img alt="GitHub" title="GitHub" src="assets/apps/github.svg" width="44">
+  <img alt="Windows" title="Windows" src="assets/apps/windows.svg" width="44">
 </p>
 
 <p align="center">
-  <code>Blueprints</code> <code>Post-process</code> <code>Packaged builds</code> <code>Git LFS</code> <code>ESP32-WROOM-32</code> <code>Arduino IDE</code> <code>USB serial</code> <code>Fusion 360</code> <code>Laser engraving</code> <code>GSAP</code> <code>IndexedDB</code> <code>Apple Home</code>
+  <code>C++</code> <code>Python</code> <code>JavaScript</code> <code>Blueprints</code> <code>Post-process</code> <code>Packaged builds</code> <code>Git LFS</code> <code>ESP32-WROOM-32</code> <code>Arduino IDE</code> <code>USB serial</code> <code>Fusion 360</code> <code>Laser engraving</code> <code>GSAP</code> <code>IndexedDB</code> <code>Apple Home</code>
 </p>
 
 <img alt="" src="assets/px/ghost.svg" width="24" align="absmiddle"> **Games**
