@@ -38,7 +38,7 @@ I make games in Unreal Engine 5 and build hardware with ESP32 and Arduino.
 </p>
 
 <p align="center">
-  <code>C++</code> <code>Python</code> <code>JavaScript</code> <code>Blueprints</code> <code>Post-process</code> <code>Packaged builds</code> <code>Git LFS</code> <code>ESP32-WROOM-32</code> <code>Arduino IDE</code> <code>USB serial</code> <code>Fusion 360</code> <code>Laser engraving</code> <code>GSAP</code> <code>IndexedDB</code> <code>Apple Home</code>
+  <code>C++</code> <code>Python</code> <code>JavaScript</code> <code>Blueprints</code> <code>Post-process</code> <code>Packaged builds</code> <code>Git LFS</code> <code>ESP32-WROOM-32</code> <code>Arduino IDE</code> <code>USB serial</code> <code>Fusion 360</code> <code>Laser engraving</code> <code>Apple Home</code>
 </p>
 
 <img alt="" src="assets/px/ghost.svg" width="24" align="absmiddle"> **Games**
@@ -75,19 +75,6 @@ A liminal-space horror game, in development. I work on the levels, the lighting 
     </td>
   </tr>
   <tr>
-    <td width="96" align="center"><img alt="" src="assets/px/glass.svg" width="64"></td>
-    <td>
-      <b>Nalewator</b><br>
-      <sub>Arduino · Fusion 360 · laser engraving</sub>
-      <ul>
-        <li>An automatic drink dispenser based on the open-source <a href="https://github.com/AlexGyver/GyverDrink">GyverDrink</a> project</li>
-        <li>New body modelled in Fusion 360 around the pump, the glass and the USB-C socket</li>
-        <li>A 37-wire soldering diagram, cross-checked against the firmware</li>
-        <li>Personalised laser engraving on the top plate</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
     <td width="96" align="center"><a href="https://github.com/maf1nek-code/Smart-Blinds-for-Smart-Home-"><img alt="" src="assets/px/blinds.svg" width="64"></a></td>
     <td>
       <a href="https://github.com/maf1nek-code/Smart-Blinds-for-Smart-Home-"><b>Smart Blinds</b></a><br>
@@ -101,19 +88,6 @@ A liminal-space horror game, in development. I work on the levels, the lighting 
     </td>
   </tr>
 </table>
-
-<img alt="" src="assets/px/cube.svg" width="24" align="absmiddle"> **Web**
-
-<img alt="" src="assets/px/glass.svg" width="20" align="absmiddle"> **Nalewator website** · `three.js` `GSAP` `IndexedDB`<br>
-The product site for Nalewator, built with AI assistance. It shows an interactive 3D model of the dispenser and has an engraving editor: you upload an image or type text, then move, scale and rotate it on the real shape of the top plate. Holes, the display and the buttons are marked as no-engrave zones, and the editor exports a 1:1 mm SVG and a 254 DPI PNG for the laser.
-
-<img alt="" src="assets/px/hourglass.svg" width="20" align="absmiddle"> <sub>Screenshots coming soon.</sub>
-
-<img alt="" src="assets/px/book.svg" width="24" align="absmiddle"> **Learning**
-
-| Project | What it does |
-|---|---|
-| <img alt="" src="assets/px/book.svg" width="20" align="absmiddle"> **infozadania** | C++ exercises from school with explanations: Fahrenheit to Celsius, copying an array in reverse with `new` and `delete[]`, `if` / `else if` / `else` chains |
 
 <img alt="" src="assets/px/chat.svg" width="24" align="absmiddle"> **Work with me**
 
