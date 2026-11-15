@@ -68,9 +68,9 @@ A liminal-space horror game, in development. It opens with a cinematic prologue 
 
 <table>
   <tr>
-    <td width="96" align="center"><a href="https://github.com/maf1nek-code/Kierownica-gt"><img alt="" src="assets/px/wheel.svg" width="64"></a></td>
+    <td width="96" align="center"><a href="https://github.com/maf1nek-code/GT-Wheel"><img alt="" src="assets/px/wheel.svg" width="64"></a></td>
     <td>
-      <a href="https://github.com/maf1nek-code/Kierownica-gt"><b>GT Wheel</b></a><br>
+      <a href="https://github.com/maf1nek-code/GT-Wheel"><b>GT Wheel</b></a><br>
       <sub>ESP32-WROOM-32 · Arduino · Python · JavaScript</sub>
       <ul>
         <li>A sim-racing wheel with 12 buttons, read with internal pull-ups and debounced in firmware</li>
@@ -80,7 +80,7 @@ A liminal-space horror game, in development. It opens with a cinematic prologue 
         <li>One-click firmware updates: GitHub Actions builds every release, the app downloads and flashes it</li>
         <li>A 3D-printed case and holder for the LED strip, designed in Fusion 360</li>
       </ul>
-      <a href="https://github.com/maf1nek-code/Kierownica-gt">View the code</a>
+      <a href="https://github.com/maf1nek-code/GT-Wheel">View the code</a>
     </td>
   </tr>
   <tr>
