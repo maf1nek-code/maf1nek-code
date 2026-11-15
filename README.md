@@ -70,7 +70,7 @@ A liminal-space horror game, in development. It opens with a cinematic prologue 
   <tr>
     <td width="96" align="center"><a href="https://github.com/maf1nek-code/Kierownica-gt"><img alt="" src="assets/px/wheel.svg" width="64"></a></td>
     <td>
-      <a href="https://github.com/maf1nek-code/Kierownica-gt"><b>Kierownica GT</b></a><br>
+      <a href="https://github.com/maf1nek-code/Kierownica-gt"><b>GT Wheel</b></a><br>
       <sub>ESP32-WROOM-32 · Arduino · Python · JavaScript</sub>
       <ul>
         <li>A sim-racing wheel with 12 buttons, read with internal pull-ups and debounced in firmware</li>
@@ -157,7 +157,7 @@ A liminal-space horror game, in development. It opens with a cinematic prologue 
 
 I'm looking for projects where I can get real experience, contribute to existing work and help fix and improve systems, in games or hardware. Most of my projects are private, so ask if you'd like to see more.
 
-Discord: `monlly.`
+Discord: `maf1nek_`
 
 <p>
   <img alt="I may not know everything yet, but I know how to figure things out." src="assets/footer.svg" width="100%">
